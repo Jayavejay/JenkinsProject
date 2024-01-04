@@ -1,0 +1,9 @@
+public class Jenkins {
+  public static void main (String[] arg) {
+  // auto generated 
+System.out.println("First line")
+System.out.println("Second line")
+System.out.println("Third line")
+
+}
+}
